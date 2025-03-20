@@ -24,8 +24,8 @@ The optimizer automatically:
 ### Local Setup
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/logic-json-optimizer.git
-   cd logic-json-optimizer
+   git clone https://github.com/VaibhavvvBarot/JsonOptimizer.git
+   cd JsonOptimizer
    ```
 
 2. Install dependencies:
